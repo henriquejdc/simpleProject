@@ -2,7 +2,7 @@ Simple Project Django REST Framework
 
 Implementado:
 - 1 Serializer
-- Métodos GET e POST
+- Métodos GET e POST com Views
 
 Instalar: 
 - pip install -r requeriments.txt
